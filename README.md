@@ -2,7 +2,7 @@
 U-136
 # Ürün ile İlgili Bilgiler 
 # Takım Elemanları
-•	Batuhan Yıldız: Project Owner
+•	Batuhan Yıldız: Project Owner n/
 •	Sude Erva Apak: Scrum Master
 •	Hüseyin Taylan: Developer
 •	Doğa Genç: Developer
