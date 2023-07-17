@@ -38,3 +38,18 @@ Daha tamamlanmadığı için.
 # Daily Scrum
 ![image](https://github.com/EVVBatuhan/O-136-GoogleOUA/assets/107678116/c8405163-d2a5-42cc-8aa8-09400cc2f93b)
 ![image](https://github.com/EVVBatuhan/O-136-GoogleOUA/assets/107678116/18092644-37e9-4d54-b039-c8f4f1aa87a5)
+
+
+
+
+
+# Düşmanlar, karakter, silah ve portal kapısı
+![image](https://github.com/EVVBatuhan/O-136-GoogleOUA/assets/107678116/e24b5fef-9b79-4daf-9f77-e0a102ab213e)
+# Arka plan 1
+![image](https://github.com/EVVBatuhan/O-136-GoogleOUA/assets/107678116/a731e956-5028-48d2-841e-484eb56c601e)
+# Arka plan 2
+![image](https://github.com/EVVBatuhan/O-136-GoogleOUA/assets/107678116/6c7d831d-aef4-40b7-8ca7-f89b514b0108)
+# Arka plan 3
+![image](https://github.com/EVVBatuhan/O-136-GoogleOUA/assets/107678116/21650f74-b67c-4dd9-b7d4-fc2f00da21a5)
+
+
