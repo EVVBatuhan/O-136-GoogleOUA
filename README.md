@@ -24,4 +24,15 @@ Bayram ve yoğunluk açısından sıkıntılar yaşandı
 # Sprint Board Updates
 ![2023-07-03 (2)](https://github.com/EVVBatuhan/O-136-GoogleOUA/assets/107678116/c0664299-1390-4283-acd9-2147a2d5bb26)
 ![2023-07-03 (3)](https://github.com/EVVBatuhan/O-136-GoogleOUA/assets/107678116/927b4fb3-e860-47da-b999-28ae8c56ece8)
-
+#
+#
+# 3. Sprint
+# Sprint Notları
+Oyunun 3 adet arka planı, karakter ve 3 adet düşman tasarımı tamamlandı. Oyun için zıplama, ateş etme, portaldan geçiş, hasar alma, zıplama, düşmanın ölme sesi ve oyun müzikleri seçildi.
+#  Tahmin Edilen/Tamamlanacak Puan
+85
+# Tahmin Mantığı
+Daha tamamlanmadığı için.
+# Sprint Board Updates
+![image](https://github.com/EVVBatuhan/O-136-GoogleOUA/assets/107678116/01ad571e-e9d3-4ecf-a44b-b1f0c7c69ad7)
+![image](https://github.com/EVVBatuhan/O-136-GoogleOUA/assets/107678116/18092644-37e9-4d54-b039-c8f4f1aa87a5)
